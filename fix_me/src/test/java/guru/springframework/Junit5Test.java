@@ -12,7 +12,6 @@ public class Junit5Test {
     @Disabled
     @Test
     void someFauxTest() {
-
         Assert.assertEquals("foo", "foo");
     }
 }
